@@ -1,7 +1,5 @@
 package com.teachmeskills.lesson9_hw.task2.util;
 
-import com.teachmeskills.lesson9_hw.task2.matrix.Matrix;
-
 public class Utils {
 
     public static void printMatrix(int[][] matrix) {
