@@ -3,7 +3,7 @@ package com.teachmeskills.lesson9_hw.task3.helper.transfer;
 import com.teachmeskills.lesson9_hw.task3.card.BaseCard;
 import com.teachmeskills.lesson9_hw.task3.client.Client;
 import com.teachmeskills.lesson9_hw.task3.helper.fee.impl.FeeHelper;
-import com.teachmeskills.lesson9_hw.task3.util.conversion.impl.Conversion;
+import com.teachmeskills.lesson9_hw.task3.util.constants.conversion.impl.Conversion;
 
 import static com.teachmeskills.lesson9_hw.task3.util.constants.transferInfo.TransferInfo.*;
 

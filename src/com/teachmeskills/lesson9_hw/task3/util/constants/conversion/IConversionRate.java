@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson9_hw.task3.util.conversion;
+package com.teachmeskills.lesson9_hw.task3.util.constants.conversion;
 
 public interface IConversionRate {
 
